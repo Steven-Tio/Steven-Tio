@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Steven-Tio
--  I’m interested in software security and development
+-  I’m interested in software engineering and development
 -  I’m an undergrad student majoring in computer science
 -  I’m looking for new challenges and a summer internship
 -  Reach me at stevensanjtio@gmail.com
