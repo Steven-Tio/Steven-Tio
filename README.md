@@ -12,25 +12,9 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 I am Steven Tio, a full stack software engineer. In my free time, I like doing hackathons, competitive programming, and contributing to open source. Let's create innovative solutions together!
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
- 
- 
-<br>
-
-<p align="center"><!-----Social Accounts------>
-
-<p align="center">
-
- <a href="https://www.linkedin.com/in/steven-tio/">
- 
- <img border="0" alt="Steven's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
- <a href="mailto:stevensanjtio@gmail.com">
- <img border="0" alt="Steven's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
-</p>
+<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Tio&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -170,6 +154,4 @@ I am Steven Tio, a full stack software engineer. In my free time, I like doing h
 
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Steven-Tio&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
